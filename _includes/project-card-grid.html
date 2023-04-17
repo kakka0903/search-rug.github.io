@@ -1,9 +1,11 @@
 <!--
-  Displays a grid of project cards.
+  Displays a grid of project cards, which link to page of each project.
   Set the card component and projects with `card_component` and `projects` variables respectively.
 -->
 <div class="grid lg:grid-cols-2 gap-4">
   {% for project in include.projects %}
-    {% include {{ include.card_component }} project=project clickable=true %}
+    <a href="{{ project.url }}" class="block">
+      {% include {{ include.card_component }} project=project clickable=true %}
+    </a>
   {% endfor %}
 </div>
