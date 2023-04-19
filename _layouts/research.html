@@ -29,7 +29,7 @@ sections:
   {% assign past_projects = site.projects | where: "archived", "true" %}
   {% if past_projects.size > 0 %}
     <section class="space-y-2">
-      <h2 class="text-2xl">Past Projects</h2>
+      <h2 class="text-2xl">Previous Research Projects</h2>
       {% include page-list.html pages=past_projects %}
     </section>
   {% endif %}
