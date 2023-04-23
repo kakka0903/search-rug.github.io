@@ -1,5 +1,9 @@
 [
     {
+        "title": "Can Clean New Code Reduce Technical Debt Density?",
+        "url": "https://research.rug.nl/en/publications/can-clean-new-code-reduce-technical-debt-density"
+    },
+    {
         "title": "The Risk of Generating Technical Debt Interest: A Case Study",
         "url": "https://research.rug.nl/en/publications/the-risk-of-generating-technical-debt-interest-a-case-study"
     },
@@ -194,9 +198,5 @@
     {
         "title": "A mapping study on documentation in Continuous Software Development",
         "url": "https://research.rug.nl/en/publications/a-mapping-study-on-documentation-in-continuous-software-developme"
-    },
-    {
-        "title": "Does it matter who pays back Technical Debt? An empirical study of self-fixed TD",
-        "url": "https://research.rug.nl/en/publications/does-it-matter-who-pays-back-technical-debt-an-empirical-study-of"
     }
 ]
