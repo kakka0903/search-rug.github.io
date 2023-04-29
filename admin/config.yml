@@ -3,10 +3,12 @@ backend:
   name: git-gateway
   repo: search-rug/search-rug.github.io
   branch: main
+  # TODO: Initalize CMS in js so enviromnent variables can be used.
+  # Also change `CMS_URL` in admin/index.html when changeing urls below.
   identity_url: "https://search-rug.netlify.app/.netlify/identity"
   gateway_url: "https://search-rug.netlify.app/.netlify/git"
   site_domain: "https://search-rug.netlify.app"
-media_folder: "assets/uploads"
+media_folder: "/uploads/miscellaneous"
 collections:
   - name: "team"
     label: "Team"
@@ -17,6 +19,12 @@ collections:
     fields:
       - { name: "title", widget: string }
       - { name: "position", widget: string }
+      - name: "image"
+        label: "avatar"
+        widget: "image"
+        media_folder: "/uploads/team-avatars"
+        allow_multiple: false
+        required: false
       - name: "status"
         widget: "object"
         fields:
@@ -81,15 +89,17 @@ collections:
         widget: "relation"
         required: false
         collection: "team"
-        value_field: "title"
+        value_field: "contact.email"
+        display_fields: ["title"]
         search_fields: ["title"]
         multiple: true
       - name: "lecturers"
         widget: "relation"
         required: false
         collection: "team"
-        value_field: "title"
+        value_field: "contact.email"
         search_fields: ["title"]
+        display_fields: ["title"]
         multiple: true
       - name: "external_coordinators"
         widget: "list"
@@ -117,15 +127,16 @@ collections:
       - { name: "homepage", required: false }
       - name: "logo"
         widget: "image"
-        media_folder: "/images/projects"
+        media_folder: "/uploads/project-logos"
         allow_multiple: false
         required: false
       - { name: "body", widget: "markdown", required: false }
       - name: "members"
         widget: "relation"
         collection: "team"
-        value_field: "title"
+        value_field: "contact.email"
         search_fields: ["title"]
+        display_fields: ["title"]
         multiple: true
       - name: "funding"
         widget: "list"
@@ -158,8 +169,9 @@ collections:
       - name: "supervisors"
         widget: "relation"
         collection: "team"
-        value_field: "title"
+        value_field: "contact.email"
         search_fields: ["title"]
+        display_fields: ["title"]
         multiple: true
       - { name: "is_group", widget: "boolean" }
       - { name: "available", widget: "boolean" }
