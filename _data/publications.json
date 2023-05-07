@@ -1,5 +1,13 @@
 [
     {
+        "title": "The temporality of technical debt introduction on new code and confounding factors",
+        "url": "https://research.rug.nl/en/publications/the-temporality-of-technical-debt-introduction-on-new-code-and-co"
+    },
+    {
+        "title": "A metric for quantifying the ripple effects among requirements",
+        "url": "https://research.rug.nl/en/publications/a-metric-for-quantifying-the-ripple-effects-among-requirements"
+    },
+    {
         "title": "Architectural decision-making as a financial investment: An industrial case study",
         "url": "https://research.rug.nl/en/publications/architectural-decision-making-as-a-financial-investment-an-indust"
     },
@@ -190,13 +198,5 @@
     {
         "title": "Extracting and Comparing Concepts Emerging from Software Code, Documentation and Tests",
         "url": "https://research.rug.nl/en/publications/extracting-and-comparing-concepts-emerging-from-software-code-doc"
-    },
-    {
-        "title": "Exploring Web Search Engines to Find Architectural Knowledge",
-        "url": "https://research.rug.nl/en/publications/exploring-web-search-engines-to-find-architectural-knowledge"
-    },
-    {
-        "title": "A Study on Architectural Smells Prediction",
-        "url": "https://research.rug.nl/en/publications/a-study-on-architectural-smells-prediction"
     }
 ]
