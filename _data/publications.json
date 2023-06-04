@@ -1,5 +1,9 @@
 [
     {
+        "title": "Guest Editorial: Collaboration and Innovation Dynamics in Software Ecosystems",
+        "url": "https://research.rug.nl/en/publications/guest-editorial-collaboration-and-innovation-dynamics-in-software"
+    },
+    {
         "title": "The temporality of technical debt introduction on new code and confounding factors",
         "url": "https://research.rug.nl/en/publications/the-temporality-of-technical-debt-introduction-on-new-code-and-co"
     },
@@ -194,9 +198,5 @@
     {
         "title": "Software reuse in open source: A case study",
         "url": "https://research.rug.nl/en/publications/software-reuse-in-open-source-a-case-study-3"
-    },
-    {
-        "title": "Extracting and Comparing Concepts Emerging from Software Code, Documentation and Tests",
-        "url": "https://research.rug.nl/en/publications/extracting-and-comparing-concepts-emerging-from-software-code-doc"
     }
 ]
