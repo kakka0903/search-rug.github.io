@@ -1,5 +1,9 @@
 [
     {
+        "title": "Code Reviewer Recommendation for Architecture Violations: An Exploratory Study",
+        "url": "https://research.rug.nl/en/publications/code-reviewer-recommendation-for-architecture-violations-an-explo"
+    },
+    {
         "title": "Guest Editorial: Collaboration and Innovation Dynamics in Software Ecosystems",
         "url": "https://research.rug.nl/en/publications/guest-editorial-collaboration-and-innovation-dynamics-in-software"
     },
@@ -194,9 +198,5 @@
     {
         "title": "Architectural design decisions that incur technical debt \u2014 An industrial case study",
         "url": "https://research.rug.nl/en/publications/architectural-design-decisions-that-incur-technical-debt-an-indus"
-    },
-    {
-        "title": "Software reuse in open source: A case study",
-        "url": "https://research.rug.nl/en/publications/software-reuse-in-open-source-a-case-study-3"
     }
 ]
