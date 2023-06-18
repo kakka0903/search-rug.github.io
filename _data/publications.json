@@ -1,5 +1,9 @@
 [
     {
+        "title": "Governing Digital Twin technology for smart and sustainable tourism: A case study in applying a documentation framework for architecture decisions",
+        "url": "https://research.rug.nl/en/publications/governing-digital-twin-technology-for-smart-and-sustainable-touri"
+    },
+    {
         "title": "Code Reviewer Recommendation for Architecture Violations: An Exploratory Study",
         "url": "https://research.rug.nl/en/publications/code-reviewer-recommendation-for-architecture-violations-an-explo"
     },
@@ -194,9 +198,5 @@
     {
         "title": "19th SC@RUG 2022 proceedings 2021-2022",
         "url": "https://research.rug.nl/en/publications/19th-scrug-2022-proceedings-2021-2022"
-    },
-    {
-        "title": "Architectural design decisions that incur technical debt \u2014 An industrial case study",
-        "url": "https://research.rug.nl/en/publications/architectural-design-decisions-that-incur-technical-debt-an-indus"
     }
 ]

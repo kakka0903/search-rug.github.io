@@ -1,5 +1,9 @@
 [
     {
+        "title": "Security vulnerabilities in open-source reused systems",
+        "url": "https://research.rug.nl/en/datasets/security-vulnerabilities-in-open-source-reused-systems"
+    },
+    {
         "title": "Dataset of Phabricator code reviews",
         "url": "https://research.rug.nl/en/datasets/dataset-of-phabricator-code-reviews"
     },
