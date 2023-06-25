@@ -4,6 +4,30 @@
         "url": "https://research.rug.nl/en/datasets/security-vulnerabilities-in-open-source-reused-systems"
     },
     {
+        "title": "Replication Package: On the relation between architectural smells and source code changes",
+        "url": "https://research.rug.nl/en/datasets/replication-package-on-the-relation-between-architectural-smells-"
+    },
+    {
+        "title": "LabelGit: A dataset for software repositories classification using attributed dependency graphs",
+        "url": "https://research.rug.nl/en/datasets/labelgit-a-dataset-for-software-repositories-classification-using"
+    },
+    {
+        "title": "Dataset for the paper: \"An Exploratory Study on Automatic Identification of Assumptions in Software Development\"",
+        "url": "https://research.rug.nl/en/datasets/dataset-for-the-paper-an-exploratory-study-on-automatic-identific"
+    },
+    {
+        "title": "Dataset for TSE submission \"Pull Request Decision Explained: An Empirical Overview\"",
+        "url": "https://research.rug.nl/en/datasets/dataset-for-tse-submission-pull-request-decision-explained-an-emp"
+    },
+    {
+        "title": "The Temporality of Technical Debt Introduction on New Code and Confounding Factors",
+        "url": "https://research.rug.nl/en/datasets/the-temporality-of-technical-debt-introduction-on-new-code-and-co"
+    },
+    {
+        "title": "Dataset for ESE submission \"Pull Request Latency Explained: An Empirical Overview\"",
+        "url": "https://research.rug.nl/en/datasets/dataset-for-ese-submission-pull-request-latency-explained-an-empi"
+    },
+    {
         "title": "Dataset of Phabricator code reviews",
         "url": "https://research.rug.nl/en/datasets/dataset-of-phabricator-code-reviews"
     },
