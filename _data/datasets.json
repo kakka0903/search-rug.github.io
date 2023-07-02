@@ -28,6 +28,14 @@
         "url": "https://research.rug.nl/en/datasets/dataset-for-ese-submission-pull-request-latency-explained-an-empi"
     },
     {
+        "title": "GitRanking: A Ranking of GitHub Topics for Software Classification using Active Sampling",
+        "url": "https://research.rug.nl/en/datasets/gitranking-a-ranking-of-github-topics-for-software-classification"
+    },
+    {
+        "title": "Supplementary Material of the paper entitled \"Governing Digital Twin technology on smart and sustainable tourism\"",
+        "url": "https://research.rug.nl/en/datasets/supplementary-material-of-the-paper-entitled-governing-digital-tw"
+    },
+    {
         "title": "Dataset of Phabricator code reviews",
         "url": "https://research.rug.nl/en/datasets/dataset-of-phabricator-code-reviews"
     },
