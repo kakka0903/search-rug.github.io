@@ -1,5 +1,9 @@
 [
     {
+        "title": "Improving hardware/software interface management in systems of systems through documentation as code",
+        "url": "https://research.rug.nl/en/publications/improving-hardwaresoftware-interface-management-in-systems-of-sys"
+    },
+    {
         "title": "Big Data Governance: The Case of Mobile Positioning Data for Official Tourism Statistics In Indonesia",
         "url": "https://research.rug.nl/en/publications/big-data-governance-the-case-of-mobile-positioning-data-for-offic"
     },
@@ -194,9 +198,5 @@
     {
         "title": "On the evolution and impact of architectural smells\u2014an industrial case study",
         "url": "https://research.rug.nl/en/publications/on-the-evolution-and-impact-of-architectural-smellsan-industrial-"
-    },
-    {
-        "title": "Identification and Remediation of Self-Admitted Technical Debt in Issue Trackers",
-        "url": "https://research.rug.nl/en/publications/identification-and-remediation-of-self-admitted-technical-debt-in"
     }
 ]
