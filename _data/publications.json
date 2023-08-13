@@ -1,5 +1,13 @@
 [
     {
+        "title": "Automatic identification of self-admitted technical debt from four different sources",
+        "url": "https://research.rug.nl/en/publications/automatic-identification-of-self-admitted-technical-debt-from-fou"
+    },
+    {
+        "title": "Towards Accurate and Efficient Sleep Period Detection using Wearable Devices",
+        "url": "https://research.rug.nl/en/publications/towards-accurate-and-efficient-sleep-period-detection-using-weara"
+    },
+    {
         "title": "Improving hardware/software interface management in systems of systems through documentation as code",
         "url": "https://research.rug.nl/en/publications/improving-hardwaresoftware-interface-management-in-systems-of-sys"
     },
@@ -190,13 +198,5 @@
     {
         "title": "An Overview and Comparison of Technical Debt Measurement Tools",
         "url": "https://research.rug.nl/en/publications/an-overview-and-comparison-of-technical-debt-measurement-tools"
-    },
-    {
-        "title": "Exploring the Relation Between Co-changes and Architectural Smells",
-        "url": "https://research.rug.nl/en/publications/exploring-the-relation-between-co-changes-and-architectural-smell"
-    },
-    {
-        "title": "On the evolution and impact of architectural smells\u2014an industrial case study",
-        "url": "https://research.rug.nl/en/publications/on-the-evolution-and-impact-of-architectural-smellsan-industrial-"
     }
 ]
