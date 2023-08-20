@@ -1,5 +1,25 @@
 [
     {
+        "title": "A Development Example: From Conceptual Specification to OO Specification",
+        "url": "https://research.rug.nl/en/publications/a-development-example-from-conceptual-specification-to-oo-specifi"
+    },
+    {
+        "title": "GitRanking: A ranking of GitHub topics for software classification using active sampling",
+        "url": "https://research.rug.nl/en/publications/gitranking-a-ranking-of-github-topics-for-software-classification"
+    },
+    {
+        "title": "Weak Labelling for File-level Source Code Classification",
+        "url": "https://research.rug.nl/en/publications/weak-labelling-for-file-level-source-code-classification"
+    },
+    {
+        "title": "Artifact Traceability in DevOps: An Industrial Experience Report",
+        "url": "https://research.rug.nl/en/publications/artifact-traceability-in-devops-an-industrial-experience-report"
+    },
+    {
+        "title": "From Descriptive to Predictive: Forecasting Emerging Research Areas in Software Traceability Using NLP from Systematic Studies",
+        "url": "https://research.rug.nl/en/publications/from-descriptive-to-predictive-forecasting-emerging-research-area"
+    },
+    {
         "title": "Automatic identification of self-admitted technical debt from four different sources",
         "url": "https://research.rug.nl/en/publications/automatic-identification-of-self-admitted-technical-debt-from-fou"
     },
@@ -178,25 +198,5 @@
     {
         "title": "The Unexplored Treasure Trove of Phabricator Code Reviews",
         "url": "https://research.rug.nl/en/publications/the-unexplored-treasure-trove-of-phabricator-code-reviews"
-    },
-    {
-        "title": "The Unexplored Terrain of Compiler Warnings",
-        "url": "https://research.rug.nl/en/publications/the-unexplored-terrain-of-compiler-warnings"
-    },
-    {
-        "title": "System and software architecting harmonization practices in ultra-large-scale systems of systems: A confirmatory case study",
-        "url": "https://research.rug.nl/en/publications/system-and-software-architecting-harmonization-practices-in-ultra"
-    },
-    {
-        "title": "Antipatterns in software classification taxonomies",
-        "url": "https://research.rug.nl/en/publications/antipatterns-in-software-classification-taxonomies"
-    },
-    {
-        "title": "Migrating e-science applications to the cloud: Methodology and evaluation",
-        "url": "https://research.rug.nl/en/publications/migrating-e-science-applications-to-the-cloud-methodology-and-eva"
-    },
-    {
-        "title": "An Overview and Comparison of Technical Debt Measurement Tools",
-        "url": "https://research.rug.nl/en/publications/an-overview-and-comparison-of-technical-debt-measurement-tools"
     }
 ]
