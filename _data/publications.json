@@ -1,7 +1,23 @@
 [
     {
+        "title": "Using improvisation theater techniques in project environments",
+        "url": "https://research.rug.nl/en/publications/using-improvisation-theater-techniques-in-project-environments"
+    },
+    {
+        "title": "Automatic Identification of Assumptions from the Hibernate Developer Mailing List",
+        "url": "https://research.rug.nl/en/publications/automatic-identification-of-assumptions-from-the-hibernate-develo"
+    },
+    {
+        "title": "Warnings: Violation symptoms indicating architecture erosion",
+        "url": "https://research.rug.nl/en/publications/warnings-violation-symptoms-indicating-architecture-erosion"
+    },
+    {
         "title": "A Development Example: From Conceptual Specification to OO Specification",
         "url": "https://research.rug.nl/en/publications/a-development-example-from-conceptual-specification-to-oo-specifi"
+    },
+    {
+        "title": "From Conceptual Specification to OO Specification",
+        "url": "https://research.rug.nl/en/publications/from-conceptual-specification-to-oo-specification"
     },
     {
         "title": "GitRanking: A ranking of GitHub topics for software classification using active sampling",
@@ -182,21 +198,5 @@
     {
         "title": "The Evolving Landscape of Software Performance Engineering",
         "url": "https://research.rug.nl/en/publications/the-evolving-landscape-of-software-performance-engineering"
-    },
-    {
-        "title": "Mining Code Review Data to Understand Waiting Times Between Acceptance and Merging: An Empirical Analysis",
-        "url": "https://research.rug.nl/en/publications/mining-code-review-data-to-understand-waiting-times-between-accep"
-    },
-    {
-        "title": "Do Small Code Changes Merge Faster? A Multi-Language Empirical Investigation",
-        "url": "https://research.rug.nl/en/publications/do-small-code-changes-merge-faster-a-multi-language-empirical-inv"
-    },
-    {
-        "title": "Quantifying Daily Evolution of Mobile Software Based on Memory Allocator Churn",
-        "url": "https://research.rug.nl/en/publications/quantifying-daily-evolution-of-mobile-software-based-on-memory-al"
-    },
-    {
-        "title": "The Unexplored Treasure Trove of Phabricator Code Reviews",
-        "url": "https://research.rug.nl/en/publications/the-unexplored-treasure-trove-of-phabricator-code-reviews"
     }
 ]
