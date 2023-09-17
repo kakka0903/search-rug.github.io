@@ -1,5 +1,9 @@
 [
     {
+        "title": "The Need for Speed: Increasing the Code Review Velocity",
+        "url": "https://research.rug.nl/en/publications/the-need-for-speed-increasing-the-code-review-velocity"
+    },
+    {
         "title": "Using improvisation theater techniques in project environments",
         "url": "https://research.rug.nl/en/publications/using-improvisation-theater-techniques-in-project-environments"
     },
@@ -194,9 +198,5 @@
     {
         "title": "Identifying self-admitted technical debt in issue tracking systems using machine learning",
         "url": "https://research.rug.nl/en/publications/identifying-self-admitted-technical-debt-in-issue-tracking-system"
-    },
-    {
-        "title": "The Evolving Landscape of Software Performance Engineering",
-        "url": "https://research.rug.nl/en/publications/the-evolving-landscape-of-software-performance-engineering"
     }
 ]
