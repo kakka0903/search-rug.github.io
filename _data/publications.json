@@ -1,5 +1,21 @@
 [
     {
+        "title": "An Architectural Technical Debt Index Based on Machine Learning and Architectural Smells",
+        "url": "https://research.rug.nl/en/publications/an-architectural-technical-debt-index-based-on-machine-learning-a"
+    },
+    {
+        "title": "Self-Admitted Technical Debt in the Embedded Systems Industry: An Exploratory Case Study",
+        "url": "https://research.rug.nl/en/publications/self-admitted-technical-debt-in-the-embedded-systems-industry-an-"
+    },
+    {
+        "title": "The lifecycle of Technical Debt that manifests in both source code and issue trackers",
+        "url": "https://research.rug.nl/en/publications/the-lifecycle-of-technical-debt-that-manifests-in-both-source-cod"
+    },
+    {
+        "title": "Where and What do Software Architects blog? An Exploratory Study on Architectural Knowledge in Blogs, and their Relevance to Design Steps",
+        "url": "https://research.rug.nl/en/publications/where-and-what-do-software-architects-blog-an-exploratory-study-o"
+    },
+    {
         "title": "The Need for Speed: Increasing the Code Review Velocity",
         "url": "https://research.rug.nl/en/publications/the-need-for-speed-increasing-the-code-review-velocity"
     },
@@ -182,21 +198,5 @@
     {
         "title": "Service Classification through Machine Learning: Aiding in the Efficient Identification of Reusable Assets in Cloud Application Development",
         "url": "https://research.rug.nl/en/publications/service-classification-through-machine-learning-aiding-in-the-eff"
-    },
-    {
-        "title": "Pull request latency explained: an empirical overview",
-        "url": "https://research.rug.nl/en/publications/pull-request-latency-explained-an-empirical-overview"
-    },
-    {
-        "title": "Maintenance and Evolution: GrimoireLab Graal",
-        "url": "https://research.rug.nl/en/publications/maintenance-and-evolution-grimoirelab-graal"
-    },
-    {
-        "title": "Development effort estimation in free/open source software from activity in version control systems",
-        "url": "https://research.rug.nl/en/publications/development-effort-estimation-in-freeopen-source-software-from-ac"
-    },
-    {
-        "title": "Identifying self-admitted technical debt in issue tracking systems using machine learning",
-        "url": "https://research.rug.nl/en/publications/identifying-self-admitted-technical-debt-in-issue-tracking-system"
     }
 ]
