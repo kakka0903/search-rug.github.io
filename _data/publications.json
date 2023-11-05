@@ -1,5 +1,13 @@
 [
     {
+        "title": "Cross-disciplinary Architecting of Systems of Systems - Bridging the Gap",
+        "url": "https://research.rug.nl/en/publications/cross-disciplinary-architecting-of-systems-of-systems-bridging-th"
+    },
+    {
+        "title": "Does Code Review Speed Matter for Practitioners?",
+        "url": "https://research.rug.nl/en/publications/does-code-review-speed-matter-for-practitioners"
+    },
+    {
         "title": "An Architectural Technical Debt Index Based on Machine Learning and Architectural Smells",
         "url": "https://research.rug.nl/en/publications/an-architectural-technical-debt-index-based-on-machine-learning-a"
     },
@@ -190,13 +198,5 @@
     {
         "title": "On Quantifying the Benefits of Dead Code Removal",
         "url": "https://research.rug.nl/en/publications/on-quantifying-the-benefits-of-dead-code-removal"
-    },
-    {
-        "title": "Sustainability in Software Architecture: A Systematic Mapping Study",
-        "url": "https://research.rug.nl/en/publications/sustainability-in-software-architecture-a-systematic-mapping-stud"
-    },
-    {
-        "title": "Service Classification through Machine Learning: Aiding in the Efficient Identification of Reusable Assets in Cloud Application Development",
-        "url": "https://research.rug.nl/en/publications/service-classification-through-machine-learning-aiding-in-the-eff"
     }
 ]
