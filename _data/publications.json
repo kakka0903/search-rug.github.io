@@ -1,5 +1,9 @@
 [
     {
+        "title": "Understanding, Analysis, and Handling of Software Architecture Erosion",
+        "url": "https://research.rug.nl/en/publications/understanding-analysis-and-handling-of-software-architecture-eros"
+    },
+    {
         "title": "Mystical and Affective Aspects of Psychedelic Use in a Naturalistic Setting: A Linguistic Analysis of Online Experience Reports",
         "url": "https://research.rug.nl/en/publications/mystical-and-affective-aspects-of-psychedelic-use-in-a-naturalist"
     },
@@ -194,9 +198,5 @@
     {
         "title": "Is Kernel Code Different From Non-Kernel Code? A Case Study of BSD Family Operating Systems",
         "url": "https://research.rug.nl/en/publications/is-kernel-code-different-from-non-kernel-code-a-case-study-of-bsd"
-    },
-    {
-        "title": "There Ain\u2019t No Such Thing as a Free Custom Memory Allocator",
-        "url": "https://research.rug.nl/en/publications/there-aint-no-such-thing-as-a-free-custom-memory-allocator"
     }
 ]
