@@ -1,5 +1,9 @@
 [
     {
+        "title": "Booting and Rebooting Academia-Industry Collaborations within Software Engineering Courses",
+        "url": "https://research.rug.nl/en/publications/booting-and-rebooting-academia-industry-collaborations-within-sof"
+    },
+    {
         "title": "Understanding, Analysis, and Handling of Software Architecture Erosion",
         "url": "https://research.rug.nl/en/publications/understanding-analysis-and-handling-of-software-architecture-eros"
     },
@@ -194,9 +198,5 @@
     {
         "title": "Managing technical debt: prioritising and quantifying architectural smells",
         "url": "https://research.rug.nl/en/publications/managing-technical-debt-prioritising-and-quantifying-architectura"
-    },
-    {
-        "title": "Is Kernel Code Different From Non-Kernel Code? A Case Study of BSD Family Operating Systems",
-        "url": "https://research.rug.nl/en/publications/is-kernel-code-different-from-non-kernel-code-a-case-study-of-bsd"
     }
 ]

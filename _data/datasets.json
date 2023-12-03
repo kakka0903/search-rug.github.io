@@ -4,6 +4,10 @@
         "url": "https://research.rug.nl/en/datasets/security-vulnerabilities-in-open-source-reused-systems"
     },
     {
+        "title": "Replication Package: On the relation between architectural smells and source code changes",
+        "url": "https://research.rug.nl/en/datasets/replication-package-on-the-relation-between-architectural-smells-"
+    },
+    {
         "title": "LabelGit: A dataset for software repositories classification using attributed dependency graphs",
         "url": "https://research.rug.nl/en/datasets/labelgit-a-dataset-for-software-repositories-classification-using"
     },
