@@ -1,5 +1,17 @@
 [
     {
+        "title": "Batching for Green AI -- An Exploratory Study on Inference",
+        "url": "https://research.rug.nl/en/publications/batching-for-green-ai-an-exploratory-study-on-inference"
+    },
+    {
+        "title": "Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI",
+        "url": "https://research.rug.nl/en/publications/uncovering-energy-efficient-practices-in-deep-learning-training-p"
+    },
+    {
+        "title": "Eclipse Open SmartCLIDE: An end-to-end framework for facilitating service reuse in cloud development",
+        "url": "https://research.rug.nl/en/publications/eclipse-open-smartclide-an-end-to-end-framework-for-facilitating-"
+    },
+    {
         "title": "Digital twins, big data governance, and sustainable tourism",
         "url": "https://research.rug.nl/en/publications/digital-twins-big-data-governance-and-sustainable-tourism"
     },
@@ -186,17 +198,5 @@
     {
         "title": "Documentation-as-Code for Interface Control Document Management in Systems of Systems: A Technical Action Research Study",
         "url": "https://research.rug.nl/en/publications/documentation-as-code-for-interface-control-document-management-i"
-    },
-    {
-        "title": "Who Ate My Memory? Towards Attribution in Memory Management",
-        "url": "https://research.rug.nl/en/publications/who-ate-my-memory-towards-attribution-in-memory-management"
-    },
-    {
-        "title": "Cost-Profiling Microservice Applications Using an APM Stack",
-        "url": "https://research.rug.nl/en/publications/cost-profiling-microservice-applications-using-an-apm-stack"
-    },
-    {
-        "title": "When malloc() Never Returns NULL -- Reliability as an Illusion",
-        "url": "https://research.rug.nl/en/publications/when-malloc-never-returns-null-reliability-as-an-illusion"
     }
 ]
