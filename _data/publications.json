@@ -16,10 +16,6 @@
         "url": "https://research.rug.nl/en/publications/digital-twins-big-data-governance-and-sustainable-tourism"
     },
     {
-        "title": "Booting and Rebooting Academia-Industry Collaborations within Software Engineering Courses",
-        "url": "https://research.rug.nl/en/publications/booting-and-rebooting-academia-industry-collaborations-within-sof"
-    },
-    {
         "title": "Understanding, Analysis, and Handling of Software Architecture Erosion",
         "url": "https://research.rug.nl/en/publications/understanding-analysis-and-handling-of-software-architecture-eros"
     },
@@ -38,10 +34,6 @@
     {
         "title": "An Architectural Technical Debt Index Based on Machine Learning and Architectural Smells",
         "url": "https://research.rug.nl/en/publications/an-architectural-technical-debt-index-based-on-machine-learning-a"
-    },
-    {
-        "title": "Self-Admitted Technical Debt in the Embedded Systems Industry: An Exploratory Case Study",
-        "url": "https://research.rug.nl/en/publications/self-admitted-technical-debt-in-the-embedded-systems-industry-an-"
     },
     {
         "title": "The lifecycle of Technical Debt that manifests in both source code and issue trackers",
@@ -198,5 +190,13 @@
     {
         "title": "Documentation-as-Code for Interface Control Document Management in Systems of Systems: A Technical Action Research Study",
         "url": "https://research.rug.nl/en/publications/documentation-as-code-for-interface-control-document-management-i"
+    },
+    {
+        "title": "Who Ate My Memory? Towards Attribution in Memory Management",
+        "url": "https://research.rug.nl/en/publications/who-ate-my-memory-towards-attribution-in-memory-management"
+    },
+    {
+        "title": "Cost-Profiling Microservice Applications Using an APM Stack",
+        "url": "https://research.rug.nl/en/publications/cost-profiling-microservice-applications-using-an-apm-stack"
     }
 ]
