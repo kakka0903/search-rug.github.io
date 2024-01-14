@@ -16,6 +16,10 @@
         "url": "https://research.rug.nl/en/publications/digital-twins-big-data-governance-and-sustainable-tourism"
     },
     {
+        "title": "Booting and Rebooting Academia-Industry Collaborations within Software Engineering Courses",
+        "url": "https://research.rug.nl/en/publications/booting-and-rebooting-academia-industry-collaborations-within-sof"
+    },
+    {
         "title": "Understanding, Analysis, and Handling of Software Architecture Erosion",
         "url": "https://research.rug.nl/en/publications/understanding-analysis-and-handling-of-software-architecture-eros"
     },
@@ -194,9 +198,5 @@
     {
         "title": "Who Ate My Memory? Towards Attribution in Memory Management",
         "url": "https://research.rug.nl/en/publications/who-ate-my-memory-towards-attribution-in-memory-management"
-    },
-    {
-        "title": "Cost-Profiling Microservice Applications Using an APM Stack",
-        "url": "https://research.rug.nl/en/publications/cost-profiling-microservice-applications-using-an-apm-stack"
     }
 ]
