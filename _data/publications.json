@@ -1,5 +1,13 @@
 [
     {
+        "title": "A Language-Parametric Approach to Exploratory Programming Environments",
+        "url": "https://research.rug.nl/en/publications/a-language-parametric-approach-to-exploratory-programming-environ"
+    },
+    {
+        "title": "Gradual Grammars: Syntax in Levels and Locales",
+        "url": "https://research.rug.nl/en/publications/gradual-grammars-syntax-in-levels-and-locales"
+    },
+    {
         "title": "Batching for Green AI -- An Exploratory Study on Inference",
         "url": "https://research.rug.nl/en/publications/batching-for-green-ai-an-exploratory-study-on-inference"
     },
@@ -40,6 +48,10 @@
         "url": "https://research.rug.nl/en/publications/an-architectural-technical-debt-index-based-on-machine-learning-a"
     },
     {
+        "title": "Self-Admitted Technical Debt in the Embedded Systems Industry: An Exploratory Case Study",
+        "url": "https://research.rug.nl/en/publications/self-admitted-technical-debt-in-the-embedded-systems-industry-an-"
+    },
+    {
         "title": "The lifecycle of Technical Debt that manifests in both source code and issue trackers",
         "url": "https://research.rug.nl/en/publications/the-lifecycle-of-technical-debt-that-manifests-in-both-source-cod"
     },
@@ -54,10 +66,6 @@
     {
         "title": "Using improvisation theater techniques in project environments",
         "url": "https://research.rug.nl/en/publications/using-improvisation-theater-techniques-in-project-environments"
-    },
-    {
-        "title": "Automatic Identification of Assumptions from the Hibernate Developer Mailing List",
-        "url": "https://research.rug.nl/en/publications/automatic-identification-of-assumptions-from-the-hibernate-develo"
     },
     {
         "title": "Warnings: Violation symptoms indicating architecture erosion",
@@ -190,13 +198,5 @@
     {
         "title": "Burnout in software engineering: A systematic mapping study",
         "url": "https://research.rug.nl/en/publications/burnout-in-software-engineering-a-systematic-mapping-study"
-    },
-    {
-        "title": "Documentation-as-Code for Interface Control Document Management in Systems of Systems: A Technical Action Research Study",
-        "url": "https://research.rug.nl/en/publications/documentation-as-code-for-interface-control-document-management-i"
-    },
-    {
-        "title": "Who Ate My Memory? Towards Attribution in Memory Management",
-        "url": "https://research.rug.nl/en/publications/who-ate-my-memory-towards-attribution-in-memory-management"
     }
 ]
