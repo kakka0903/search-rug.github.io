@@ -1,5 +1,9 @@
 [
     {
+        "title": "DebtViz: A Tool for Identifying, Measuring, Visualizing, and Monitoring Self-Admitted Technical Debt",
+        "url": "https://research.rug.nl/en/publications/debtviz-a-tool-for-identifying-measuring-visualizing-and-monitori"
+    },
+    {
         "title": "A Language-Parametric Approach to Exploratory Programming Environments",
         "url": "https://research.rug.nl/en/publications/a-language-parametric-approach-to-exploratory-programming-environ"
     },
@@ -68,12 +72,12 @@
         "url": "https://research.rug.nl/en/publications/using-improvisation-theater-techniques-in-project-environments"
     },
     {
-        "title": "Warnings: Violation symptoms indicating architecture erosion",
-        "url": "https://research.rug.nl/en/publications/warnings-violation-symptoms-indicating-architecture-erosion"
+        "title": "Automatic Identification of Assumptions from the Hibernate Developer Mailing List",
+        "url": "https://research.rug.nl/en/publications/automatic-identification-of-assumptions-from-the-hibernate-develo"
     },
     {
-        "title": "A Development Example: From Conceptual Specification to OO Specification",
-        "url": "https://research.rug.nl/en/publications/a-development-example-from-conceptual-specification-to-oo-specifi"
+        "title": "Warnings: Violation symptoms indicating architecture erosion",
+        "url": "https://research.rug.nl/en/publications/warnings-violation-symptoms-indicating-architecture-erosion"
     },
     {
         "title": "From Conceptual Specification to OO Specification",
@@ -194,9 +198,5 @@
     {
         "title": "Pull Request Decisions Explained: An Empirical Overview",
         "url": "https://research.rug.nl/en/publications/pull-request-decisions-explained-an-empirical-overview"
-    },
-    {
-        "title": "Burnout in software engineering: A systematic mapping study",
-        "url": "https://research.rug.nl/en/publications/burnout-in-software-engineering-a-systematic-mapping-study"
     }
 ]
