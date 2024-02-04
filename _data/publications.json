@@ -80,6 +80,10 @@
         "url": "https://research.rug.nl/en/publications/warnings-violation-symptoms-indicating-architecture-erosion"
     },
     {
+        "title": "A Development Example: From Conceptual Specification to OO Specification",
+        "url": "https://research.rug.nl/en/publications/a-development-example-from-conceptual-specification-to-oo-specifi"
+    },
+    {
         "title": "From Conceptual Specification to OO Specification",
         "url": "https://research.rug.nl/en/publications/from-conceptual-specification-to-oo-specification"
     },
@@ -194,9 +198,5 @@
     {
         "title": "Understanding software architecture erosion: A systematic mapping study",
         "url": "https://research.rug.nl/en/publications/understanding-software-architecture-erosion-a-systematic-mapping-"
-    },
-    {
-        "title": "Pull Request Decisions Explained: An Empirical Overview",
-        "url": "https://research.rug.nl/en/publications/pull-request-decisions-explained-an-empirical-overview"
     }
 ]
