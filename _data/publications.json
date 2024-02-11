@@ -1,5 +1,21 @@
 [
     {
+        "title": "A fuzzy fine-tuned model for COVID-19 diagnosis",
+        "url": "https://research.rug.nl/en/publications/a-fuzzy-fine-tuned-model-for-covid-19-diagnosis"
+    },
+    {
+        "title": "OFraMP: a fragment-based tool to facilitate the parametrization of large molecules",
+        "url": "https://research.rug.nl/en/publications/oframp-a-fragment-based-tool-to-facilitate-the-parametrization-of"
+    },
+    {
+        "title": "Semantics Engineering with Concrete Syntax",
+        "url": "https://research.rug.nl/en/publications/semantics-engineering-with-concrete-syntax"
+    },
+    {
+        "title": "Eelco Visser and IFIP WG 2.16",
+        "url": "https://research.rug.nl/en/publications/eelco-visser-and-ifip-wg-216"
+    },
+    {
         "title": "DebtViz: A Tool for Identifying, Measuring, Visualizing, and Monitoring Self-Admitted Technical Debt",
         "url": "https://research.rug.nl/en/publications/debtviz-a-tool-for-identifying-measuring-visualizing-and-monitori"
     },
@@ -182,21 +198,5 @@
     {
         "title": "Are We Speeding Up or Slowing Down? On Temporal Aspects of Code Velocity",
         "url": "https://research.rug.nl/en/publications/are-we-speeding-up-or-slowing-down-on-temporal-aspects-of-code-ve"
-    },
-    {
-        "title": "Applications of natural language processing in software traceability: A systematic mapping study",
-        "url": "https://research.rug.nl/en/publications/applications-of-natural-language-processing-in-software-traceabil"
-    },
-    {
-        "title": "Understanding Architecture Erosion: The Practitioners\u2019 Perceptive",
-        "url": "https://research.rug.nl/en/publications/understanding-architecture-erosion-the-practitioners-perceptive"
-    },
-    {
-        "title": "Symptoms of architecture erosion in code reviews: A study of two OpenStack projects",
-        "url": "https://research.rug.nl/en/publications/symptoms-of-architecture-erosion-in-code-reviews-a-study-of-two-o"
-    },
-    {
-        "title": "Understanding software architecture erosion: A systematic mapping study",
-        "url": "https://research.rug.nl/en/publications/understanding-software-architecture-erosion-a-systematic-mapping-"
     }
 ]
