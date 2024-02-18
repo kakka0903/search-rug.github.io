@@ -1,5 +1,9 @@
 [
     {
+        "title": "A Cost-Sensitive Machine Learning Model With Multitask Learning for Intrusion Detection in IoT",
+        "url": "https://research.rug.nl/en/publications/a-cost-sensitive-machine-learning-model-with-multitask-learning-f"
+    },
+    {
         "title": "A fuzzy fine-tuned model for COVID-19 diagnosis",
         "url": "https://research.rug.nl/en/publications/a-fuzzy-fine-tuned-model-for-covid-19-diagnosis"
     },
@@ -194,9 +198,5 @@
     {
         "title": "What Warnings Do Engineers Really Fix? The Compiler That Cried Wolf",
         "url": "https://research.rug.nl/en/publications/what-warnings-do-engineers-really-fix-the-compiler-that-cried-wol"
-    },
-    {
-        "title": "Are We Speeding Up or Slowing Down? On Temporal Aspects of Code Velocity",
-        "url": "https://research.rug.nl/en/publications/are-we-speeding-up-or-slowing-down-on-temporal-aspects-of-code-ve"
     }
 ]
