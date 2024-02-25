@@ -1,5 +1,13 @@
 [
     {
+        "title": "Automatically Identifying Relations Between Self-Admitted Technical Debt Across Different Sources",
+        "url": "https://research.rug.nl/en/publications/automatically-identifying-relations-between-self-admitted-technic"
+    },
+    {
+        "title": "Governing the use of big data and digital twin technology for sustainable tourism",
+        "url": "https://research.rug.nl/en/publications/governing-the-use-of-big-data-and-digital-twin-technology-for-sus"
+    },
+    {
         "title": "A Cost-Sensitive Machine Learning Model With Multitask Learning for Intrusion Detection in IoT",
         "url": "https://research.rug.nl/en/publications/a-cost-sensitive-machine-learning-model-with-multitask-learning-f"
     },
@@ -190,13 +198,5 @@
     {
         "title": "On measuring coupling between microservices",
         "url": "https://research.rug.nl/en/publications/on-measuring-coupling-between-microservices"
-    },
-    {
-        "title": "Introduction to the Special Issue on Software-Intensive Autonomous Systems: Methods and applications",
-        "url": "https://research.rug.nl/en/publications/introduction-to-the-special-issue-on-software-intensive-autonomou"
-    },
-    {
-        "title": "What Warnings Do Engineers Really Fix? The Compiler That Cried Wolf",
-        "url": "https://research.rug.nl/en/publications/what-warnings-do-engineers-really-fix-the-compiler-that-cried-wol"
     }
 ]
