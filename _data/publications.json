@@ -1,5 +1,21 @@
 [
     {
+        "title": "Early outcomes and complications following cardiac surgery in patients testing positive for coronavirus disease 2019: An international cohort study",
+        "url": "https://research.rug.nl/en/publications/early-outcomes-and-complications-following-cardiac-surgery-in-pat"
+    },
+    {
+        "title": "Pattern-based serverless data processing pipelines for Function-as-a-Service orchestration systems",
+        "url": "https://research.rug.nl/en/publications/pattern-based-serverless-data-processing-pipelines-for-function-a"
+    },
+    {
+        "title": "Technical debt management automation: State of the art and future perspectives",
+        "url": "https://research.rug.nl/en/publications/technical-debt-management-automation-state-of-the-art-and-future-"
+    },
+    {
+        "title": "Multi-granular software annotation using file-level weak labelling",
+        "url": "https://research.rug.nl/en/publications/multi-granular-software-annotation-using-file-level-weak-labellin"
+    },
+    {
         "title": "Automatically Identifying Relations Between Self-Admitted Technical Debt Across Different Sources",
         "url": "https://research.rug.nl/en/publications/automatically-identifying-relations-between-self-admitted-technic"
     },
@@ -182,21 +198,5 @@
     {
         "title": "The Risk of Generating Technical Debt Interest: A Case Study",
         "url": "https://research.rug.nl/en/publications/the-risk-of-generating-technical-debt-interest-a-case-study"
-    },
-    {
-        "title": "Evolution of the Unix System Architecture: An Exploratory Case Study",
-        "url": "https://research.rug.nl/en/publications/evolution-of-the-unix-system-architecture-an-exploratory-case-stu"
-    },
-    {
-        "title": "20th SC@RUG 2023 proceedings 2022-2023",
-        "url": "https://research.rug.nl/en/publications/20th-scrug-2023-proceedings-2022-2023"
-    },
-    {
-        "title": "Uncertainty in Self-adaptive Systems: A Research Community Perspective",
-        "url": "https://research.rug.nl/en/publications/uncertainty-in-self-adaptive-systems-a-research-community-perspec"
-    },
-    {
-        "title": "On measuring coupling between microservices",
-        "url": "https://research.rug.nl/en/publications/on-measuring-coupling-between-microservices"
     }
 ]
