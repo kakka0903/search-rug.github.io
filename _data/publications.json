@@ -1,9 +1,5 @@
 [
     {
-        "title": "Early outcomes and complications following cardiac surgery in patients testing positive for coronavirus disease 2019: An international cohort study",
-        "url": "https://research.rug.nl/en/publications/early-outcomes-and-complications-following-cardiac-surgery-in-pat"
-    },
-    {
         "title": "Pattern-based serverless data processing pipelines for Function-as-a-Service orchestration systems",
         "url": "https://research.rug.nl/en/publications/pattern-based-serverless-data-processing-pipelines-for-function-a"
     },
@@ -198,5 +194,9 @@
     {
         "title": "The Risk of Generating Technical Debt Interest: A Case Study",
         "url": "https://research.rug.nl/en/publications/the-risk-of-generating-technical-debt-interest-a-case-study"
+    },
+    {
+        "title": "Evolution of the Unix System Architecture: An Exploratory Case Study",
+        "url": "https://research.rug.nl/en/publications/evolution-of-the-unix-system-architecture-an-exploratory-case-stu"
     }
 ]
