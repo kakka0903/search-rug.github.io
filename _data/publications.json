@@ -1,5 +1,9 @@
 [
     {
+        "title": "Architecting for sustainability of and in the cloud: A systematic literature review",
+        "url": "https://research.rug.nl/en/publications/architecting-for-sustainability-of-and-in-the-cloud-a-systematic-"
+    },
+    {
         "title": "Technical Debt in Continuous Software Engineering: An Overview of the State of the Art and Future Trends",
         "url": "https://research.rug.nl/en/publications/technical-debt-in-continuous-software-engineering-an-overview-of-"
     },
@@ -194,9 +198,5 @@
     {
         "title": "A metric for quantifying the ripple effects among requirements",
         "url": "https://research.rug.nl/en/publications/a-metric-for-quantifying-the-ripple-effects-among-requirements"
-    },
-    {
-        "title": "Architectural decision-making as a financial investment: An industrial case study",
-        "url": "https://research.rug.nl/en/publications/architectural-decision-making-as-a-financial-investment-an-indust"
     }
 ]
