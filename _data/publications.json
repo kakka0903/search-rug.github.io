@@ -1,5 +1,17 @@
 [
     {
+        "title": "Mining for cost awareness in the infrastructure as code artifacts of cloud-based applications: An exploratory study",
+        "url": "https://research.rug.nl/en/publications/mining-for-cost-awareness-in-the-infrastructure-as-code-artifacts"
+    },
+    {
+        "title": "What Do You Mean by Memory? When Engineers Are Lost in the Maze of Complexity",
+        "url": "https://research.rug.nl/en/publications/what-do-you-mean-by-memory-when-engineers-are-lost-in-the-maze-of"
+    },
+    {
+        "title": "The Devil Is in the Command Line: Associating the Compiler Flags With the Binary and Build Metadata",
+        "url": "https://research.rug.nl/en/publications/the-devil-is-in-the-command-line-associating-the-compiler-flags-w"
+    },
+    {
         "title": "21st SC@RUG 2024 proceedings 2023-2024",
         "url": "https://research.rug.nl/en/publications/21st-scrug-2024-proceedings-2023-2024"
     },
@@ -186,17 +198,5 @@
     {
         "title": "Big Data Governance: The Case of Mobile Positioning Data for Official Tourism Statistics In Indonesia",
         "url": "https://research.rug.nl/en/publications/big-data-governance-the-case-of-mobile-positioning-data-for-offic"
-    },
-    {
-        "title": "Governing Digital Twin technology for smart and sustainable tourism: A case study in applying a documentation framework for architecture decisions",
-        "url": "https://research.rug.nl/en/publications/governing-digital-twin-technology-for-smart-and-sustainable-touri"
-    },
-    {
-        "title": "Code Reviewer Recommendation for Architecture Violations: An Exploratory Study",
-        "url": "https://research.rug.nl/en/publications/code-reviewer-recommendation-for-architecture-violations-an-explo"
-    },
-    {
-        "title": "Guest Editorial: Collaboration and Innovation Dynamics in Software Ecosystems",
-        "url": "https://research.rug.nl/en/publications/guest-editorial-collaboration-and-innovation-dynamics-in-software"
     }
 ]
